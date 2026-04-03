@@ -5,4 +5,7 @@
 
 addのあと、コミットの前
 
-branch feature1で行追加
+
+
+ブランｃｈfeature2ﾃﾞｇｯﾖﾂｲｶ
+
